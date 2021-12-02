@@ -1,11 +1,10 @@
 # ⭐⭐⭐⭐⭐ EOG
 Programs and functions developed in Matlab for ocular electromyography (EOG) signal processing.
+
 ![EMG](https://user-images.githubusercontent.com/12642226/144514364-88877797-06b3-4590-a440-09a9863421cd.png)
 
 # Classification Learner
 ![Classification](https://user-images.githubusercontent.com/12642226/126782394-ecb99406-0aa0-456a-b587-7d0cdfb307e3.PNG)
-# Regression Learner
-![Prediction](https://user-images.githubusercontent.com/12642226/126782409-61d89edc-8d65-4d6c-bec0-19a6aaef8539.PNG)
 
 # To work better it is recommended:
 - The main code in the project folder
@@ -31,7 +30,7 @@ Programs and functions developed in Matlab for ocular electromyography (EOG) sig
 
 # CLONE
 - git status
-- git clone https://github.com/vasanza/Matlab_Code.git
+- git clone https://github.com/vasanza/EOG.git
 
 # SWITCHED TO BRANCH
 - git branch -a
